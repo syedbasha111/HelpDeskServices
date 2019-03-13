@@ -401,6 +401,58 @@ namespace HelpDeskServices.DataAccessLayer
 
                         SqlDataAdapter da = new SqlDataAdapter();
                         cmd.Parameters.AddWithValue("@SCountry", countryName);
+                        cmd.Parameters.AddWithValue("@Fcase", 1);
+                        da.SelectCommand = cmd;
+                        da.Fill(dt);
+
+                        if (dt.Rows.Count > 0)
+                        {
+
+                            foreach (DataRow dr in dt.Rows)
+                            {
+                                CitiesModel citiesObj = new CitiesModel();
+                                citiesObj.CitiesId = int.Parse(dr["CityId"].ToString());
+                                citiesObj.CountryCode = dr["CountryCode"].ToString();
+                                citiesObj.CountryName = dr["CountryName"].ToString();
+                                citiesObj.CityCode = dr["CityCode"].ToString();
+                                citiesObj.CityName = dr["CityName"].ToString();
+                                citiesObj.CmpCode = dr["CmpyCode"].ToString();
+                                citiesList.Add(citiesObj);
+                            }
+
+                        }
+
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return citiesList;
+
+        }
+
+
+        public List<CitiesModel> GetAllCities()
+        {
+            List<CitiesModel> citiesList = new List<CitiesModel>();
+            string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(ConString))
+                {
+                    conn.Open();
+                    DataTable dt = new DataTable();
+                    using (SqlCommand cmd = new SqlCommand("HD_Sp_city", conn))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                        SqlDataAdapter da = new SqlDataAdapter();
+                        cmd.Parameters.AddWithValue("@SCountry", "");
+                        cmd.Parameters.AddWithValue("@Fcase", 2);
                         da.SelectCommand = cmd;
                         da.Fill(dt);
 

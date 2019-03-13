@@ -192,6 +192,7 @@
     <Compile Include="BusinessAccessLayer\CompanyDetailsBAL.cs" />
     <Compile Include="BusinessAccessLayer\FacilityMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\FeedbackMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\HolidayMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\ImpactCallMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\MasterModule.cs" />
     <Compile Include="BusinessAccessLayer\MasterServiceBLL.cs" />
@@ -205,6 +206,7 @@
     <Compile Include="Controllers\CompanyDataController.cs" />
     <Compile Include="Controllers\FacilityMasterController.cs" />
     <Compile Include="Controllers\FeedbackMasterController.cs" />
+    <Compile Include="Controllers\HolidayMasterController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ImpactMasterController.cs" />
     <Compile Include="Controllers\MasterPageController.cs" />
@@ -220,6 +222,7 @@
     <Compile Include="DataAccessLayer\CompanyListDAL.cs" />
     <Compile Include="DataAccessLayer\FacilityMasterDAL.cs" />
     <Compile Include="DataAccessLayer\FeedbackMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\HolidayMasterDAL.cs" />
     <Compile Include="DataAccessLayer\ImpactMasterDAL.cs" />
     <Compile Include="DataAccessLayer\MasterModeulDAL.cs" />
     <Compile Include="DataAccessLayer\MasterModule.cs" />

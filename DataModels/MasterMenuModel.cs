@@ -321,6 +321,23 @@ namespace HelpDeskServices.DataModels
         public int CompanyId { get; set; }
     }
 
+    public class HolidayCallMasterModel
+    {
+        public int HolidayCallMasterId { get; set; }
+        public string HolidayCallName { get; set; }
+        public string HolidayDate { get; set; }
+        public string Remark { get; set; }
+        public string CityName { get; set; }
+        public string CityId { get; set; }
+        public int IsActive { get; set; }
+        public int IsDeleted { get; set; }
+        public string CreatedOn { get; set; }
+        public string UpdatedOn { get; set; }
+        public int CreatedBy { get; set; }
+        public int UpdatedBy { get; set; }
+        public int CompanyId { get; set; }
+    }
+
 
 
 

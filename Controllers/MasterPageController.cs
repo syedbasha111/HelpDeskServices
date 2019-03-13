@@ -81,5 +81,14 @@ namespace HelpDeskServices.Controllers
             citiesList = CitiessBal.GetCities(countryName);
             return Request.CreateResponse(HttpStatusCode.OK, citiesList);
         }
+
+        [HttpGet]
+        public HttpResponseMessage GetAllCities(string companyID,string CompanyName)
+        {
+            MasterServiceBLL CitiessBal = new MasterServiceBLL();
+            List<CitiesModel> citiesList = new List<CitiesModel>();
+            citiesList = CitiessBal.GetAllCities();
+            return Request.CreateResponse(HttpStatusCode.OK, citiesList);
+        }
     }
 }

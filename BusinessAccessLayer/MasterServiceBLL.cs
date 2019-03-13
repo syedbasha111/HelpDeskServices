@@ -44,6 +44,11 @@ namespace HelpDeskServices.BusinessAccessLayer
             return  MasterIDAl.GetCities(countryName);
         }
 
+        public List<CitiesModel> GetAllCities()
+        {
+            MasterModeulDAL MasterIDAl = new MasterModeulDAL();
+            return MasterIDAl.GetAllCities();
+        }
         public List<CountriesModel> GetCoutries()
         {
             MasterModeulDAL MasterIDAl = new MasterModeulDAL();
