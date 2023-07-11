@@ -1,0 +1,11 @@
+08-05-2020 11:08:22 AM Cm Status Details
+08-05-2020 11:08:44 AM Cm Status Details
+08-05-2020 11:09:15 AM Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.Reports.CM_status_details]
+08-05-2020 11:09:15 AM Folder Path C:\Users_WO\RaiseReq\CM_Status_details08-05-2020.pdf
+08-05-2020 11:09:16 AM pdf functionality start 
+08-05-2020 11:09:16 AM ExxceptionCould not find a part of the path 'C:\Users_WO\RaiseReq\CM_Status_details08-05-2020.pdf'.
+08-05-2020 01:41:02 PM Cm Status Details
+08-05-2020 01:41:28 PM Cm Status Details
+08-05-2020 01:41:50 PM Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.Reports.CM_status_details]
+08-05-2020 01:42:03 PM Folder Path C:\Users_WO\RaiseReq\CM_Status_details08-05-2020.pdf
+08-05-2020 01:42:07 PM pdf functionality start 

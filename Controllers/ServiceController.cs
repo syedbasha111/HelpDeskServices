@@ -7,14 +7,17 @@ using System.Net;
 using System.Net.Http;
 using System.Web;
 using System.Web.Http;
-using System.Web.Mvc;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/Service")]
+
     public class ServiceController : ApiController
     {
         // GET: Service
-        [System.Web.Http.HttpGet]
+        [HttpGet]
+        [Route("GetServiceByCompanyID")]
+
         public HttpResponseMessage GetServiceByCompanyID(int companyId)
         {
             MasterServiceBLL getservice = new MasterServiceBLL();
@@ -22,7 +25,9 @@ namespace HelpDeskServices.Controllers
             return  Request.CreateResponse(HttpStatusCode.OK, ServiceObjectList);
         }
 
-        [System.Web.Http.HttpPost]
+        [HttpPost]
+        [Route("InsertServiceData")]
+
         public HttpResponseMessage InsertServiceData(Service serviceObj)
         {
             string status;
@@ -39,11 +44,22 @@ namespace HelpDeskServices.Controllers
         }
 
         [System.Web.Http.HttpGet]
-        public HttpResponseMessage RemoveServiceRecordById(int serviceId)
+        [Route("RemoveServiceRecordById")]
+
+        public HttpResponseMessage RemoveServiceRecordById(int serviceId,int CompanyId)
         {
             MasterServiceBLL removeService = new MasterServiceBLL();
-            string status = removeService.DeleteService(serviceId);
+            string status = removeService.DeleteService(serviceId, CompanyId);
             return Request.CreateResponse(HttpStatusCode.OK, status);
+        }
+
+        [HttpGet]
+        [Route("Servicename")]
+        public HttpResponseMessage GetServicebybussinessID(int companyId,int Id)
+        {
+            MasterServiceBLL getservice = new MasterServiceBLL();
+            List<ServiceObject> ServiceObjectList = getservice.GetServicebybussinessID(companyId,Id);
+            return Request.CreateResponse(HttpStatusCode.OK, ServiceObjectList);
         }
     }
 }

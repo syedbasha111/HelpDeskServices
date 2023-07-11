@@ -131,7 +131,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -178,14 +178,14 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
 
         }
 
-        public string DeleteProblemRecordById(int problemId)
+        public string DeleteProblemRecordById(int problemId,int CompanyId)
         {
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
             try
@@ -198,14 +198,7 @@ namespace HelpDeskServices.DataAccessLayer
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
                         cmd.Parameters.AddWithValue("@Fcase", 4);
-                        cmd.Parameters.AddWithValue("@ProblemCode","");
-                        cmd.Parameters.AddWithValue("@ProblemDescription", "");
-                        cmd.Parameters.AddWithValue("@Remarks", "");
-                        cmd.Parameters.AddWithValue("@BusinessUnitId", "");
-                        cmd.Parameters.AddWithValue("@Companyid", "");
-                        cmd.Parameters.AddWithValue("@createdby", 0);
-                        cmd.Parameters.AddWithValue("@Modifiedby", 0);
-                        cmd.Parameters.AddWithValue("@IsActive", 0);
+                        cmd.Parameters.AddWithValue("@Companyid", CompanyId);
                         cmd.Parameters.AddWithValue("@ID", problemId);
                         cmd.CommandType = CommandType.StoredProcedure;
                         SqlDataAdapter da = new SqlDataAdapter();
@@ -223,9 +216,62 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
             return "No records Found";
+        }
+
+        public List<Problem> GetProblembysubservice(int companyId,int Id)
+        {
+            List<Problem> basemodel = new List<Problem>();
+            string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(ConString))
+                {
+                    conn.Open();
+                    DataTable dt = new DataTable();
+                    using (SqlCommand cmd = new SqlCommand("HD_Sp_Problem", conn))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@Fcase", 7);
+                        cmd.Parameters.AddWithValue("@ProblemCode", "");
+                        cmd.Parameters.AddWithValue("@ProblemDescription", "");
+                        cmd.Parameters.AddWithValue("@Remarks", "");
+                        cmd.Parameters.AddWithValue("@BusinessUnitId", "");
+                        cmd.Parameters.AddWithValue("@Companyid", companyId);
+                        cmd.Parameters.AddWithValue("@createdby", 0);
+                        cmd.Parameters.AddWithValue("@Modifiedby", 0);
+                        cmd.Parameters.AddWithValue("@IsActive", 0);
+                        cmd.Parameters.AddWithValue("@ID", Id);
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        SqlDataAdapter da = new SqlDataAdapter();
+                        da.SelectCommand = cmd;
+                        da.Fill(dt);
+                        if (dt.Rows.Count > 0)
+                        {
+
+                            foreach (DataRow dr in dt.Rows)
+                            {
+                                Problem data = new Problem();
+
+                                data.ProblemId = Convert.ToInt32(dr["ID"]);
+                                data.ProblemDescription = dr["ProblemDescription"].ToString();
+                                basemodel.Add(data);
+                            }
+
+                        }
+
+
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+            return basemodel;
         }
     }
 }

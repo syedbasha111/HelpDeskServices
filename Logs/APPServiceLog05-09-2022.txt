@@ -1,0 +1,42 @@
+05-09-2022 18:13:30 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:13:30 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:13:30 pdf functionality start 
+05-09-2022 18:17:20 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:17:20 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:17:20 pdf functionality start 
+05-09-2022 18:19:01 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:19:27 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:19:47 pdf functionality start 
+05-09-2022 18:22:27 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:22:27 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:22:30 pdf functionality start 
+05-09-2022 18:24:49 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:24:49 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:24:49 pdf functionality start 
+05-09-2022 18:25:58 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:25:58 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:25:58 pdf functionality start 
+05-09-2022 18:26:47 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:26:47 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:26:47 pdf functionality start 
+05-09-2022 18:27:02 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:27:02 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:27:02 pdf functionality start 
+05-09-2022 18:27:52 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:27:52 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:27:52 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:27:52 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:27:52 pdf functionality start 
+05-09-2022 18:27:52 pdf functionality start 
+05-09-2022 18:27:52 ExxceptionThe process cannot access the file 'C:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf' because it is being used by another process.
+05-09-2022 18:28:24 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.site_performance]
+05-09-2022 18:28:24 Folder Path Cs:\Users_WO\RaiseReq\CM_performancebySite05092022.pdf
+05-09-2022 18:28:24 pdf functionality start 
+05-09-2022 18:28:36 Cm Status Details
+05-09-2022 18:28:41 Cm Status Details
+05-09-2022 18:29:25 Cm Status Details
+05-09-2022 18:29:48 Cm Status Details
+05-09-2022 18:31:21 Cm Status Details
+05-09-2022 18:31:45 Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.Reports.CM_status_details]
+05-09-2022 18:31:45 Folder Path E:\Users_WO\RaiseReq\CM_Status_details05092022.pdf
+05-09-2022 18:31:45 pdf functionality start 

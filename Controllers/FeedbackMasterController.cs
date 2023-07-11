@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/Feedback")]
     public class FeedbackMasterController : ApiController
     {
         [HttpPost]
@@ -29,6 +30,16 @@ namespace HelpDeskServices.Controllers
             FeedbackMasterBAL getFeedbackbalmethods = new FeedbackMasterBAL();
             List<FeedbackCallMasterModel> FeedbackObj = new List<FeedbackCallMasterModel>();
             return Request.CreateResponse(HttpStatusCode.OK, FeedbackObj = getFeedbackbalmethods.GetFeedbackCallMaster(companyId));
+        }
+
+        [HttpDelete]
+        [Route("FeedbackFacility")]
+        public HttpResponseMessage DeleteFeedback(int recordId, int CompanyId)
+        {
+            string status;
+            FeedbackMasterBAL BAL = new FeedbackMasterBAL();
+            status = BAL.DeleteFeedbackCallMaster(recordId, CompanyId);
+            return Request.CreateResponse(HttpStatusCode.OK, status);
         }
     }
 }

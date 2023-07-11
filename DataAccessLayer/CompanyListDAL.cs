@@ -21,12 +21,12 @@ namespace HelpDeskServices.DataAccessLayer
                 {
                     conn.Open();
                     DataTable dt = new DataTable();
-                    using (SqlCommand cmd = new SqlCommand("HD_Sp_GetCompanies", conn))
+                    using (SqlCommand cmd = new SqlCommand("Hd-sp-CompanyMaster", conn))
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
 
                         SqlDataAdapter da = new SqlDataAdapter();
-                        cmd.Parameters.AddWithValue("@Fcase", 2);
+                        cmd.Parameters.AddWithValue("@Fcase", 4);
                         cmd.Parameters.AddWithValue("@ID", companyId);
                         da.SelectCommand = cmd;
                         da.Fill(dt);

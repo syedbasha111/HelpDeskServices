@@ -9,9 +9,12 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/SlaTime")]
     public class SlaTimeDefinationController : ApiController
     {
+        SlaTimeDefinationBAL BAL = new SlaTimeDefinationBAL();
         [HttpPost]
+        [Route("slatime")]
         public HttpResponseMessage InsertSLATimeDefination(SlaTimeDefinationModel slaObj)
         {
             string result = "";
@@ -25,6 +28,17 @@ namespace HelpDeskServices.Controllers
                 result = slatimeBal.InsertSLATimeDefination(slaObj);
             }
             return Request.CreateResponse(HttpStatusCode.OK, result);
+        }
+
+        [HttpPost]
+        [Route("slatimesubitems")]
+        public IHttpActionResult InsertSLATimesubItems(List<slatimesubitems> request)
+        {
+            string responce = "";
+             responce = BAL.InsertSLATimesubItems(request);
+            
+            return Ok(responce);
+
         }
 
         [HttpGet]

@@ -14,16 +14,22 @@ namespace HelpDeskServices.BusinessAccessLayer
             ProblemDAL getProblemservice = new ProblemDAL();
             return getProblemservice.GetProblemServices(companyId);
         }
+
+        public List<Problem> GetProblembysubservice(int companyId,int Id)
+        {
+            ProblemDAL getProblemservice = new ProblemDAL();
+            return getProblemservice.GetProblembysubservice(companyId,Id);
+        }
         public string InsertProblemServiceData(Problem problemobj)
         {
             ProblemDAL insertproblemobj = new ProblemDAL();
             return insertproblemobj.InsertProblem(problemobj);
         }
 
-        public string DeleteProblemServiceById(int problemId)
+        public string DeleteProblemServiceById(int problemId,int CompanyId)
         {
             ProblemDAL delproblembyid = new ProblemDAL();
-            return delproblembyid.DeleteProblemRecordById(problemId);
+            return delproblembyid.DeleteProblemRecordById(problemId, CompanyId);
 
         }
 

@@ -29,11 +29,11 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteFacilityCallMaster(int recordId)
+        public string DeleteFacilityCallMaster(int recordId,int ComapanyId)
         {
 
             FacilityMasterDAL FacilitycallMethod = new FacilityMasterDAL();
-            return FacilitycallMethod.DeleteFacilityMaster(recordId);
+            return FacilitycallMethod.DeleteFacilityMaster(recordId, ComapanyId);
         }
     }
 }

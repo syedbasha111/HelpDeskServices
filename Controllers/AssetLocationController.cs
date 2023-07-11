@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/AssetLocation")]
     public class AssetLocationController : ApiController
     {
         [HttpGet]
@@ -36,13 +37,16 @@ namespace HelpDeskServices.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, result);
         }
 
-        [HttpGet]
-        public HttpResponseMessage DeleteAssetLocationById(int recordId)
+        [HttpDelete]
+        [Route("DeleteAsset")]
+        public HttpResponseMessage DeleteAssetLocationById(int recordId,int CompanyId)
         {
             string result = "";
             AssetLocationBAL deleteassetlocation = new AssetLocationBAL();
-            result = deleteassetlocation.DeleteAssetLocation(recordId);
+            result = deleteassetlocation.DeleteAssetLocation(recordId, CompanyId);
             return Request.CreateResponse(HttpStatusCode.OK, result);
         }
+
+        
     }
 }

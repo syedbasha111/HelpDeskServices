@@ -9,31 +9,37 @@ namespace HelpDeskServices.BusinessAccessLayer
 {
     public class ServiceEscalationBAL
     {
+        ServiceEscalationDAL DAL = new ServiceEscalationDAL();
+
         public string InsertServiceEscalationById(ServiceEscalationModel escalationmodel)
         {
-            ServiceEscalationDAL servicedalMethod = new ServiceEscalationDAL();
-            return servicedalMethod.insertServiceEscaltion(escalationmodel);
+            return DAL.insertServiceEscaltion(escalationmodel);
+
+        }
+        public string SaveusersCheckList(List<ServiceEscalationSubItems> request)
+        {
+            return DAL.SaveusersCheckList(request);
 
         }
 
         public string UpdateServiceEscalationById(ServiceEscalationModel escalationmodel)
         {
-            ServiceEscalationDAL servicedalMethod = new ServiceEscalationDAL();
-            return servicedalMethod.UpdateServiceEscaltion(escalationmodel);
+            return DAL.UpdateServiceEscaltion(escalationmodel);
 
         }
         public List<ServiceEscalationModel> GetServiceEscalationById(int companyId)
         {
-            ServiceEscalationDAL servicedalMethod = new ServiceEscalationDAL();
-            return servicedalMethod.GetServiceEscalation(companyId);
-
+            return DAL.GetServiceEscalation(companyId);
         }
 
         public string DeleteServiceEscalationById(int recordId)
         {
 
-            ServiceEscalationDAL servicedalMethod = new ServiceEscalationDAL();
-            return servicedalMethod.DeleteServiceEscalation(recordId);
+            return DAL.DeleteServiceEscalation(recordId);
+        }
+        public RoleTreeView role(int CompanyId)
+        {
+            return DAL.role(CompanyId);
         }
     }
 }

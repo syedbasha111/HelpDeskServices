@@ -9,14 +9,14 @@ namespace HelpDeskServices.BusinessAccessLayer
 {
     public class HolidayMasterBAL
     {
-        public string InsertHolidayCallMaster(HolidayCallMasterModel obj)
+        public List<HD_BaseModel> InsertHolidayCallMaster(List<HolidayCallMasterModel> obj)
         {
             HolidayMasterDAL HolidaycallMethod = new HolidayMasterDAL();
             return HolidaycallMethod.insertHolidayCallMaster(obj);
 
         }
 
-        public string UpdateHolidayCallMaster(HolidayCallMasterModel obj)
+        public string UpdateHolidayCallMaster(List<HolidayCallMasterModel> obj)
         {
             HolidayMasterDAL HolidaycallMethod = new HolidayMasterDAL();
             return HolidaycallMethod.UpdateHolidayMaster(obj);
@@ -29,11 +29,11 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteHolidayCallMaster(int recordId)
+        public string DeleteHolidayCallMaster(int recordId,int CompanyId)
         {
 
             HolidayMasterDAL HolidaycallMethod = new HolidayMasterDAL();
-            return HolidaycallMethod.DeleteHolidayMaster(recordId);
+            return HolidaycallMethod.DeleteHolidayMaster(recordId, CompanyId);
         }
     }
 }

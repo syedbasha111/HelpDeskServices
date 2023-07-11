@@ -11,99 +11,108 @@ namespace HelpDeskServices.DataAccessLayer
 {
     public class HolidayMasterDAL
     {
-        public string insertHolidayCallMaster(HolidayCallMasterModel HolidayObj)
+        public List<HD_BaseModel> insertHolidayCallMaster(List<HolidayCallMasterModel> HolidayObj)
         {
-
+            List<HD_BaseModel> BaseResponce = new List<HD_BaseModel>();
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
             try
             {
                 using (SqlConnection conn = new SqlConnection(ConString))
                 {
                     conn.Open();
-                    DataTable dt = new DataTable();
-                    using (SqlCommand cmd = new SqlCommand("HD_sp_Holidaymaster", conn))
+                    foreach (var request in HolidayObj)
                     {
-                        cmd.CommandType = CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@Fcase", 1);
-                        cmd.Parameters.AddWithValue("@Id", HolidayObj.HolidayCallMasterId);
-                        cmd.Parameters.AddWithValue("@HolidayDate", HolidayObj.HolidayDate);
-                        cmd.Parameters.AddWithValue("@HolidayName", HolidayObj.HolidayCallName);
-                        cmd.Parameters.AddWithValue("@Remark", HolidayObj.Remark);
-                        cmd.Parameters.AddWithValue("@IsActive", HolidayObj.IsActive);
-                        cmd.Parameters.AddWithValue("@createdBy", HolidayObj.CreatedBy);
-                        cmd.Parameters.AddWithValue("@UpdatedBy", HolidayObj.UpdatedBy);
-                        cmd.Parameters.AddWithValue("@Companyid", HolidayObj.CompanyId);
-                        cmd.Parameters.AddWithValue("@IsDeleted", 0);
-                        cmd.Parameters.AddWithValue("@CityID", HolidayObj.CityId);
-                       
-
-
-                        cmd.CommandType = CommandType.StoredProcedure;
-                        SqlDataAdapter da = new SqlDataAdapter();
-                        da.SelectCommand = cmd;
-                        da.Fill(dt);
-
-                        if (dt.Rows.Count > 0)
+                        using (SqlCommand cmd = new SqlCommand("HD_sp_Holidaymaster", conn))
                         {
-                            return dt.Rows[0][0].ToString();
+                            cmd.CommandType = CommandType.StoredProcedure;
+                            cmd.Parameters.AddWithValue("@Fcase", 1);
+                            cmd.Parameters.AddWithValue("@Id", request.HolidayCallMasterId);
+                            cmd.Parameters.AddWithValue("@HolidayDate", request.HolidayDate);
+                            cmd.Parameters.AddWithValue("@HolidayName", request.HolidayCallName);
+                            cmd.Parameters.AddWithValue("@Remark", request.Remark);
+                            cmd.Parameters.AddWithValue("@IsActive", request.IsActive);
+                            cmd.Parameters.AddWithValue("@createdBy", request.CreatedBy);
+                            cmd.Parameters.AddWithValue("@UpdatedBy", request.UpdatedBy);
+                            cmd.Parameters.AddWithValue("@Companyid", request.CompanyId);
+                            cmd.Parameters.AddWithValue("@IsDeleted", 0);
+                            cmd.Parameters.AddWithValue("@CityID", request.CityId);
+                            cmd.CommandType = CommandType.StoredProcedure;
+                            SqlDataAdapter da = new SqlDataAdapter();
+                            da.SelectCommand = cmd;
+                            DataTable dt = new DataTable();
+                            da.Fill(dt);
+                            if (dt.Rows[0][0].ToString() == "Already Record Exist")
+                            {
+                                HD_BaseModel responce = new HD_BaseModel();
+                                responce.Names = request.HolidayCallName;
+                                BaseResponce.Add(responce);
+                            }
                         }
-
                     }
+                    //if (dt.Rows.Count > 0)
+                    //{
+                    //    return BaseResponce;
+                    //}
                 }
 
             }
             catch (Exception ex)
             {
-                throw;
+               
             }
 
-            return "";
+            return BaseResponce;
 
         }
 
-        public string UpdateHolidayMaster(HolidayCallMasterModel HolidayObj)
+        public string UpdateHolidayMaster(List<HolidayCallMasterModel> HolidayObj)
         {
 
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
             try
             {
+                DataTable dt = new DataTable();
                 using (SqlConnection conn = new SqlConnection(ConString))
                 {
                     conn.Open();
-                    DataTable dt = new DataTable();
-                    using (SqlCommand cmd = new SqlCommand("HD_sp_Holidaymaster", conn))
+
+                    foreach (var request in HolidayObj)
                     {
-                        cmd.CommandType = CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@Fcase", 2);
-                        cmd.Parameters.AddWithValue("@Id", HolidayObj.HolidayCallMasterId);
-                        cmd.Parameters.AddWithValue("@CityID", HolidayObj.CityId);
-                        cmd.Parameters.AddWithValue("@HolidayDate", HolidayObj.HolidayDate);
-                        cmd.Parameters.AddWithValue("@HolidayName", HolidayObj.HolidayCallName);
-                        cmd.Parameters.AddWithValue("@Remark", HolidayObj.Remark);
-                        cmd.Parameters.AddWithValue("@IsActive", HolidayObj.IsActive);
-                        cmd.Parameters.AddWithValue("@createdBy", HolidayObj.CreatedBy);
-                        cmd.Parameters.AddWithValue("@UpdatedBy", HolidayObj.UpdatedBy);
-                        cmd.Parameters.AddWithValue("@Companyid", HolidayObj.CompanyId);
-                        cmd.Parameters.AddWithValue("@IsDeleted", 0);
-                        cmd.Parameters.AddWithValue("@UpdatedOn", "");
-                        cmd.Parameters.AddWithValue("@CreatedOn", "");
-                        cmd.CommandType = CommandType.StoredProcedure;
-                        SqlDataAdapter da = new SqlDataAdapter();
-                        da.SelectCommand = cmd;
-                        da.Fill(dt);
-
-                        if (dt.Rows.Count > 0)
+                        using (SqlCommand cmd = new SqlCommand("HD_sp_Holidaymaster", conn))
                         {
-                            return dt.Rows[0][0].ToString();
-                        }
+                            cmd.CommandType = CommandType.StoredProcedure;
+                            cmd.Parameters.AddWithValue("@Fcase", 2);
+                            cmd.Parameters.AddWithValue("@Id", request.HolidayCallMasterId);
+                            cmd.Parameters.AddWithValue("@CityID", request.CityId);
+                            cmd.Parameters.AddWithValue("@HolidayDate", request.HolidayDate);
+                            cmd.Parameters.AddWithValue("@HolidayName", request.HolidayCallName);
+                            cmd.Parameters.AddWithValue("@Remark", request.Remark);
+                            cmd.Parameters.AddWithValue("@IsActive", request.IsActive);
+                            cmd.Parameters.AddWithValue("@createdBy", request.CreatedBy);
+                            cmd.Parameters.AddWithValue("@UpdatedBy", request.UpdatedBy);
+                            cmd.Parameters.AddWithValue("@Companyid", request.CompanyId);
+                            cmd.Parameters.AddWithValue("@IsDeleted", 0);
+                            cmd.Parameters.AddWithValue("@UpdatedOn", "");
+                            cmd.Parameters.AddWithValue("@CreatedOn", "");
+                            cmd.CommandType = CommandType.StoredProcedure;
+                            SqlDataAdapter da = new SqlDataAdapter();
+                            da.SelectCommand = cmd;
+                            da.Fill(dt);
 
+
+
+                        }
                     }
+                }
+                if (dt.Rows.Count > 0)
+                {
+                    return dt.Rows[0][0].ToString();
                 }
 
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -129,7 +138,7 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@Fcase", 3);
 
                         cmd.Parameters.AddWithValue("@Id", 0);
-                       
+
                         cmd.Parameters.AddWithValue("@HolidayName", "");
                         cmd.Parameters.AddWithValue("@Remark", "");
                         cmd.Parameters.AddWithValue("@IsActive", 0);
@@ -138,10 +147,10 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@IsDeleted", 0);
                         cmd.Parameters.AddWithValue("@UpdatedOn", "");
                         cmd.Parameters.AddWithValue("@CreatedOn", "");
-                      
+
                         cmd.Parameters.AddWithValue("@Companyid", companyId);
-                        cmd.Parameters.AddWithValue("@CityID","");
-                        cmd.Parameters.AddWithValue("@HolidayDate","");
+                        cmd.Parameters.AddWithValue("@CityID", "");
+                        cmd.Parameters.AddWithValue("@HolidayDate", "");
 
                         da.SelectCommand = cmd;
                         da.Fill(dt);
@@ -191,7 +200,7 @@ namespace HelpDeskServices.DataAccessLayer
 
         }
 
-        public string DeleteHolidayMaster(int recordId)
+        public string DeleteHolidayMaster(int recordId,int CompanyId)
         {
 
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
@@ -205,19 +214,8 @@ namespace HelpDeskServices.DataAccessLayer
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
                         cmd.Parameters.AddWithValue("@Fcase", 4);
-
                         cmd.Parameters.AddWithValue("@Id", recordId);
-                        cmd.Parameters.AddWithValue("@HolidayCode", "");
-                        cmd.Parameters.AddWithValue("@HolidayName", "");
-                        cmd.Parameters.AddWithValue("@Remark", "");
-                     
-                        cmd.Parameters.AddWithValue("@IsActive", 0);
-                        cmd.Parameters.AddWithValue("@createdBy", 0);
-                        cmd.Parameters.AddWithValue("@UpdatedBy", 0);
-                        cmd.Parameters.AddWithValue("@IsDeleted", 0);
-                        cmd.Parameters.AddWithValue("@Companyid", 0);
-                        cmd.Parameters.AddWithValue("@UpdatedOn", "");
-                        cmd.Parameters.AddWithValue("@CreatedOn", "");
+                        cmd.Parameters.AddWithValue("@Companyid", CompanyId);
                         cmd.CommandType = CommandType.StoredProcedure;
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
@@ -233,7 +231,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "No records Found";

@@ -29,11 +29,11 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteRepeatCallMaster(int recordId)
+        public string DeleteRepeatcall(int recordId,int CompanyId)
         {
 
             RepeatCallMasterDAL repeatcallMethod = new RepeatCallMasterDAL();
-            return repeatcallMethod.DeleteRepeatCallMaster(recordId);
+            return repeatcallMethod.DeleteRepeatCallMaster(recordId, CompanyId);
         }
     }
 }

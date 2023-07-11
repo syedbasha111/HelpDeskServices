@@ -11,6 +11,12 @@ namespace HelpDeskServices.BusinessAccessLayer
     {
         MasterSubServiceDAL MasterDAL = new MasterSubServiceDAL();
 
+        public List<SubServiceObject> Getsubservicebyserviceid(int campanyId,int Id)
+        {
+
+            return MasterDAL.Getsubservicebyserviceid(campanyId,Id);
+        }
+
         public List<SubServiceObject> GetSubServiceUnit(int campanyId)
         {
 
@@ -32,9 +38,20 @@ namespace HelpDeskServices.BusinessAccessLayer
             return MasterDAL.GetSubServiceById(SubServiceId);
         }
 
-        public string DeleteSubService(int SubServiceId)
+        public string DeleteSubService(int SubServiceId,int CompanyId)
         {
-            return MasterDAL.DeleteSubService(SubServiceId);
+            return MasterDAL.DeleteSubService(SubServiceId, CompanyId);
+        }
+
+        public List<ServiceByBusinessUnit> GetServiceByBusinessUnit(int bunit,int CompanyId)
+        {
+            return MasterDAL.GetServiceByBusinessUnit(bunit, CompanyId);
+        }
+
+        public SiteMasterDropdownlist GetdetailsbysubserviceId(int companyId, int Id)
+        {
+            return MasterDAL.GetdetailsbysubserviceId(companyId, Id);
+
         }
     }
 }

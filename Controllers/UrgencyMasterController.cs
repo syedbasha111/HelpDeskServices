@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/Urgency")]
     public class UrgencyMasterController : ApiController
     {
         [HttpPost]
@@ -29,6 +30,16 @@ namespace HelpDeskServices.Controllers
             UrgencyMasterBAL getUrgencybalmethods = new UrgencyMasterBAL();
             List<UrgencyCallMasterModel> UrgencyObj = new List<UrgencyCallMasterModel>();
             return Request.CreateResponse(HttpStatusCode.OK, UrgencyObj = getUrgencybalmethods.GetUrgencyCallMaster(companyId));
+        }
+
+        [HttpDelete]
+        [Route("deleteUrgency")]
+        public HttpResponseMessage DeleteUrgency(int recordId, int CompanyId)
+        {
+            string status;
+            UrgencyMasterBAL BAL = new UrgencyMasterBAL();
+            status = BAL.DeleteUrgencyCallMaster(recordId, CompanyId);
+            return Request.CreateResponse(HttpStatusCode.OK, status);
         }
     }
 }

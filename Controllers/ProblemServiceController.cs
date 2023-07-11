@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/ProblemService")]
     public class ProblemServiceController : ApiController
     {
         public  HttpResponseMessage GetProblemMasterService(int companyId)
@@ -36,13 +37,25 @@ namespace HelpDeskServices.Controllers
             
             return Request.CreateResponse(HttpStatusCode.OK,result);
         }
-
-        public HttpResponseMessage DeleteProblemServiceById(int problemId)
+        [HttpDelete]
+        [Route("DeleteProblemName")]
+        public HttpResponseMessage DeleteProblemServiceById(int problemId,int CompanyId)
         {
             string result;
             ProblemServiceBAL deleteproblemservice = new ProblemServiceBAL();
-            result = deleteproblemservice.DeleteProblemServiceById(problemId);
+            result = deleteproblemservice.DeleteProblemServiceById(problemId, CompanyId);
             return Request.CreateResponse(HttpStatusCode.OK, result);
+        }
+
+        [HttpGet]
+        [Route("ProblemName")]
+        public HttpResponseMessage GetProblembysubservice(int companyId,int Id)
+        {
+            List<Problem> problemmodule = new List<Problem>();
+            ProblemServiceBAL getproblem = new ProblemServiceBAL();
+            problemmodule = getproblem.GetProblembysubservice(companyId,Id);
+
+            return Request.CreateResponse(HttpStatusCode.OK, problemmodule);
         }
     }
 }

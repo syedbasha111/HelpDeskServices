@@ -1,0 +1,50 @@
+﻿{
+  "ComapanyLogo": [
+    {
+      "Id": "",
+      "TableName": "[Hd-Tbl-CompanyMaster]",
+      "Id_name": "CompanyId",
+      "ImagePath1": "Logo"
+    }
+  ],
+  "ComapanyDoc": [
+    {
+      "Id": "",
+      "TableName": "[Hd-Tbl-CompanyMaster]",
+      "Id_name": "CompanyId",
+      "ImagePath1": "CompanyRegistrationDocument"
+    }
+  ],
+  "AddcapitalImage": [
+    {
+      "Id": "",
+      "TableName": "[Hd-Tbl-AddCapitalAsset]",
+      "Id_name": "Id",
+      "ImagePath1": "UploadAssetImage"
+    }
+  ],
+  "AddcapitalDocument": [
+    {
+      "Id": "",
+      "TableName": "[Hd-Tbl-AddCapitalAsset]",
+      "Id_name": "Id",
+      "ImagePath1": "UploadAssetDocument"
+    }
+  ],
+  "AddcapitalInsuranceDocument": [
+    {
+      "Id": "",
+      "TableName": "[Hd-Tbl-AddCapitalAsset]",
+      "Id_name": "Id",
+      "ImagePath1": "UploadInsuranceDocument"
+    }
+  ],
+  "RaiseServiceFile": [
+    {
+      "Id": "",
+      "TableName": "[Hd-Tbl-RaiseServiceRequest]",
+      "Id_name": "Id",
+      "ImagePath1": "ImagePath"
+    }
+  ]
+}

@@ -45,12 +45,43 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AutoMapper, Version=9.0.0.0, Culture=neutral, PublicKeyToken=be96cd2c38ef1005, processorArchitecture=MSIL">
+      <HintPath>..\packages\AutoMapper.9.0.0\lib\net461\AutoMapper.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.1\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.1, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.1\lib\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Data.Edm, Version=5.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.Edm.5.6.0\lib\net40\Microsoft.Data.Edm.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.OData, Version=5.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Data.OData.5.6.0\lib\net40\Microsoft.Data.OData.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Swashbuckle.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cd1bb07a5ac7c7bc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Swashbuckle.Core.5.6.0\lib\net40\Swashbuckle.Core.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Spatial, Version=5.6.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Spatial.5.6.0\lib\net40\System.Spatial.dll</HintPath>
     </Reference>
     <Reference Include="System.Web.Cors, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.Cors.5.2.7\lib\net45\System.Web.Cors.dll</HintPath>
@@ -65,6 +96,9 @@
     </Reference>
     <Reference Include="System.Web.Http.Cors, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNet.WebApi.Cors.5.2.7\lib\net45\System.Web.Http.Cors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.OData, Version=5.3.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.OData.5.3.1\lib\net45\System.Web.Http.OData.dll</HintPath>
     </Reference>
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Web" />
@@ -114,6 +148,9 @@
       <Private>True</Private>
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebActivatorEx.2.0\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
       <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
@@ -156,9 +193,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdoConnection\AdoExcmethod.cs" />
+    <Compile Include="AdoConnection\SqlParamDefinition.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\SwaggerConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.cs" />
     <Compile Include="Areas\HelpPage\App_Start\HelpPageConfig.cs" />
@@ -188,52 +228,282 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="BusinessAccessLayer\AreaMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\AssetLocationBAL.cs" />
+    <Compile Include="BusinessAccessLayer\AssetMaster\AddCapitalAssetBAL.cs" />
+    <Compile Include="BusinessAccessLayer\AssetMaster\GroupMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\AssetMaster\ModifyCapitalAssetBAL.cs" />
+    <Compile Include="BusinessAccessLayer\AssetMaster\SubSystemMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\AssetMaster\SystemMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\AssetMaster\TaskListBAL.cs" />
+    <Compile Include="BusinessAccessLayer\BuildingMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\CityMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\CompanyDetailsBAL.cs" />
+    <Compile Include="BusinessAccessLayer\CompanyMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\CountryMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\DashbordBAL.cs" />
+    <Compile Include="BusinessAccessLayer\DistrictMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\EmployeetypeBAL.cs" />
     <Compile Include="BusinessAccessLayer\FacilityMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\FeedbackMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\FloormasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\HolidayMasterBAL.cs" />
     <Compile Include="BusinessAccessLayer\ImpactCallMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\LoginBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Maintanance\MasterModule.cs" />
+    <Compile Include="BusinessAccessLayer\Maintanance\MasterServiceBLL.cs" />
+    <Compile Include="BusinessAccessLayer\Maintanance\MasterSubServiceBLL.cs" />
+    <Compile Include="BusinessAccessLayer\Maintanance\SubSystemMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Maintanance\SystemMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\MaintenanceSLABAL.cs" />
+    <Compile Include="BusinessAccessLayer\Maintenance_mgmt\pm-by-system\CreateplanBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Maintenance_mgmt\Pm_by_Group\Createplan.cs" />
     <Compile Include="BusinessAccessLayer\MasterModule.cs" />
     <Compile Include="BusinessAccessLayer\MasterServiceBLL.cs" />
     <Compile Include="BusinessAccessLayer\MasterSubServiceBLL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\AddNewUserBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\AssetRoutemasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\CreateUserBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\DepartmentBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\DesignationBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\FutureplansBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\ReportingManagerBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\ReqFromMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\RolemasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\SRAssignMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\UserRightsBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Masters\UserRoleMappingBAL.cs" />
     <Compile Include="BusinessAccessLayer\ProblemServiceBAL.cs" />
+    <Compile Include="BusinessAccessLayer\RegionMaterBAL.cs" />
     <Compile Include="BusinessAccessLayer\RepeatCallMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Reports\MultidropdownBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Reports\Reports.cs" />
+    <Compile Include="BusinessAccessLayer\ReqApprvlMatrixBAL.cs" />
+    <Compile Include="BusinessAccessLayer\RoomMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\RoomTypeBAL.cs" />
     <Compile Include="BusinessAccessLayer\ServiceEscalationBAL.cs" />
+    <Compile Include="BusinessAccessLayer\ShiftMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\SiteMaterBAL.cs" />
     <Compile Include="BusinessAccessLayer\SlaTimeDefinationBAL.cs" />
+    <Compile Include="BusinessAccessLayer\StateMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Transaction\ApproveWoBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Transaction\CloseWOBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Transaction\RaiseserviceBAL.cs" />
+    <Compile Include="BusinessAccessLayer\Transaction\WorkOrderBAL.cs" />
     <Compile Include="BusinessAccessLayer\UrgencyMasterBAL.cs" />
+    <Compile Include="BusinessAccessLayer\ZoneMasterBAL.cs" />
+    <Compile Include="Common.cs" />
+    <Compile Include="Controllers\AreaMasterController.cs" />
     <Compile Include="Controllers\AssetLocationController.cs" />
+    <Compile Include="Controllers\AssetMaster\AddCapitalAssetController.cs" />
+    <Compile Include="Controllers\AssetMaster\GroupMasterController.cs" />
+    <Compile Include="Controllers\AssetMaster\ModifyCapitalAssetController.cs" />
+    <Compile Include="Controllers\AssetMaster\SubSysyemMasterController.cs" />
+    <Compile Include="Controllers\AssetMaster\SystemMasterController.cs" />
+    <Compile Include="Controllers\AssetMaster\TaskListMasterController.cs" />
+    <Compile Include="Controllers\BuildingMasterController.cs" />
+    <Compile Include="Controllers\CityMasterController.cs" />
     <Compile Include="Controllers\CompanyDataController.cs" />
+    <Compile Include="Controllers\CompanymasterController.cs" />
+    <Compile Include="Controllers\CountryMasterController.cs" />
+    <Compile Include="Controllers\DashboardController.cs" />
+    <Compile Include="Controllers\DistrictMasterController.cs" />
+    <Compile Include="Controllers\EmployeeTypeController.cs" />
     <Compile Include="Controllers\FacilityMasterController.cs" />
     <Compile Include="Controllers\FeedbackMasterController.cs" />
+    <Compile Include="Controllers\FloorMasterController.cs" />
     <Compile Include="Controllers\HolidayMasterController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ImpactMasterController.cs" />
+    <Compile Include="Controllers\LocationMappingController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\Maintenance mgmt\PM-by-group\CreateplanController.cs" />
+    <Compile Include="Controllers\Maintenance mgmt\PM-by-routine\Createroutine.cs" />
+    <Compile Include="Controllers\Maintenance mgmt\PM-by-routine\CreateroutineBAL.cs" />
+    <Compile Include="Controllers\Maintenance mgmt\PM-by-routine\CreateroutineController.cs" />
+    <Compile Include="Controllers\Maintenance mgmt\PM-by-System\CreateController.cs" />
+    <Compile Include="Controllers\MaintenanceSLAController.cs" />
+    <Compile Include="Controllers\Maintenance\MasterPageController.cs" />
+    <Compile Include="Controllers\Maintenance\ServiceController.cs" />
+    <Compile Include="Controllers\Maintenance\SubServiceController.cs" />
+    <Compile Include="Controllers\Maintenance\SubSysyemMasterController.cs" />
+    <Compile Include="Controllers\Maintenance\SystemMasterController.cs" />
     <Compile Include="Controllers\MasterPageController.cs" />
+    <Compile Include="Controllers\Masters\AddNewUserController.cs" />
+    <Compile Include="Controllers\Masters\AssetRoutemasterController.cs" />
+    <Compile Include="Controllers\Masters\CreateUserController.cs" />
+    <Compile Include="Controllers\Masters\DepartmentController.cs" />
+    <Compile Include="Controllers\Masters\DesignationMasterController.cs" />
+    <Compile Include="Controllers\Masters\FutureplansController.cs" />
+    <Compile Include="Controllers\Masters\ReportingManagerController.cs" />
+    <Compile Include="Controllers\Masters\ReqFromMasterController.cs" />
+    <Compile Include="Controllers\Masters\RoleMasterController.cs" />
+    <Compile Include="Controllers\Masters\SRAssignMasterController.cs" />
+    <Compile Include="Controllers\Masters\UserRightsController.cs" />
+    <Compile Include="Controllers\Masters\UserRoleMappingController.cs" />
     <Compile Include="Controllers\ProblemServiceController.cs" />
+    <Compile Include="Controllers\RegionController.cs" />
     <Compile Include="Controllers\RepeatCallMasterController.cs" />
+    <Compile Include="Controllers\Reports\MultidropdownsController.cs" />
+    <Compile Include="Controllers\Reports\ReportsController.cs" />
+    <Compile Include="Controllers\ReqApprvlMatrixController.cs" />
+    <Compile Include="Controllers\RoomMasterController.cs" />
+    <Compile Include="Controllers\RoomTypeMasterController.cs" />
     <Compile Include="Controllers\ServiceController.cs" />
     <Compile Include="Controllers\ServiceEscalationController.cs" />
+    <Compile Include="Controllers\ShiftMasterController.cs" />
+    <Compile Include="Controllers\SiteMasterController.cs" />
     <Compile Include="Controllers\SlaTimeDefinationController.cs" />
+    <Compile Include="Controllers\StateMasterController.cs" />
     <Compile Include="Controllers\SubServiceController.cs" />
+    <Compile Include="Controllers\Transactions\ApproveWoController.cs" />
+    <Compile Include="Controllers\Transactions\CloseWOStatusController.cs" />
+    <Compile Include="Controllers\Transactions\RaiseServiceRequestController.cs" />
+    <Compile Include="Controllers\Transactions\WorkOrderController.cs" />
     <Compile Include="Controllers\UrgencyMasterController.cs" />
     <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\ZoneMasterController.cs" />
+    <Compile Include="DataAccessLayer\AreaMasterDAL.cs" />
     <Compile Include="DataAccessLayer\AssetLocationDAL.cs" />
+    <Compile Include="DataAccessLayer\AssetMaster\AddCapitalAssetDAL.cs" />
+    <Compile Include="DataAccessLayer\AssetMaster\GroupMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\AssetMaster\ModifyCapitalAssetDAL.cs" />
+    <Compile Include="DataAccessLayer\AssetMaster\SubSystemMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\AssetMaster\SystemMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\AssetMaster\TaskListDAL.cs" />
+    <Compile Include="DataAccessLayer\BuildingMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\CityMasterDAL.cs" />
     <Compile Include="DataAccessLayer\CompanyListDAL.cs" />
+    <Compile Include="DataAccessLayer\CompanyMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\CountryMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\DashboardDAL.cs" />
+    <Compile Include="DataAccessLayer\DistrictMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\DocumentsPathsDAL\DeleteImages.cs" />
+    <Compile Include="DataAccessLayer\EmployeetypeDAL.cs" />
     <Compile Include="DataAccessLayer\FacilityMasterDAL.cs" />
     <Compile Include="DataAccessLayer\FeedbackMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\FloorMasterDAL.cs" />
     <Compile Include="DataAccessLayer\HolidayMasterDAL.cs" />
     <Compile Include="DataAccessLayer\ImpactMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\LoginDAL.cs" />
+    <Compile Include="DataAccessLayer\Maintanance\MasterModeulDAL.cs" />
+    <Compile Include="DataAccessLayer\Maintanance\MasterServiceDAL.cs" />
+    <Compile Include="DataAccessLayer\Maintanance\MasterSubServiceDAL.cs" />
+    <Compile Include="DataAccessLayer\Maintanance\SubSystemMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Maintanance\SystemMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\MaintenanceSLADAL.cs" />
+    <Compile Include="DataAccessLayer\Maintenance_mgmt\PM-by-system\CreateplanDAL.cs" />
+    <Compile Include="DataAccessLayer\Maintenance_mgmt\Pm_by_group\createplan.cs" />
     <Compile Include="DataAccessLayer\MasterModeulDAL.cs" />
     <Compile Include="DataAccessLayer\MasterModule.cs" />
     <Compile Include="DataAccessLayer\MasterServiceDAL.cs" />
     <Compile Include="DataAccessLayer\MasterSubServiceDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\AddNewUserDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\AssetRoutemasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\CreateUserDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\DepartmentDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\DepartmentModel.cs" />
+    <Compile Include="DataAccessLayer\Masters\DesignationDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\FutureplansDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\ReportingManagerDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\ReqFromMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\RoleMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\SRAssignMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\UserRightsDAL.cs" />
+    <Compile Include="DataAccessLayer\Masters\UserRoleMappingDAL.cs" />
     <Compile Include="DataAccessLayer\ProblemDAL.cs" />
+    <Compile Include="DataAccessLayer\RegionMasterDAL.cs" />
     <Compile Include="DataAccessLayer\RepeatCallMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Reports\MultidropdownDAL.cs" />
+    <Compile Include="DataAccessLayer\Reports\Reports.cs" />
+    <Compile Include="DataAccessLayer\ReqApprvlMatrixDAL.cs" />
+    <Compile Include="DataAccessLayer\RoomMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\RoomTypeDAL.cs" />
     <Compile Include="DataAccessLayer\ServiceEscalationDAL.cs" />
+    <Compile Include="DataAccessLayer\ShiftMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\SiteMasterDAL.cs" />
     <Compile Include="DataAccessLayer\SlaTimeDefinationDAL.cs" />
+    <Compile Include="DataAccessLayer\StateMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\Transaction\ApproveWoDAL.cs" />
+    <Compile Include="DataAccessLayer\Transaction\CloseWoDAL.cs" />
+    <Compile Include="DataAccessLayer\Transaction\RaiseServiceDAL.cs" />
+    <Compile Include="DataAccessLayer\Transaction\WorkOrderDAL.cs" />
     <Compile Include="DataAccessLayer\UrgencyMasterDAL.cs" />
+    <Compile Include="DataAccessLayer\ZoneMasterDAL.cs" />
+    <Compile Include="DataModels\AreaMasterModel.cs" />
+    <Compile Include="DataModels\AssetMaster\AddassetStatus.cs" />
+    <Compile Include="DataModels\AssetMaster\AddCapitalAsset.cs" />
+    <Compile Include="DataModels\AssetMaster\AssetFor.cs" />
+    <Compile Include="DataModels\AssetMaster\AssetPriority.cs" />
+    <Compile Include="DataModels\AssetMaster\Department.cs" />
+    <Compile Include="DataModels\AssetMaster\FrequencyMaster.cs" />
+    <Compile Include="DataModels\AssetMaster\GroupMasterModel.cs" />
+    <Compile Include="DataModels\AssetMaster\PlanListAddItemModel.cs" />
+    <Compile Include="DataModels\AssetMaster\PriorityModel.cs" />
+    <Compile Include="DataModels\AssetMaster\SubSytemModel.cs" />
+    <Compile Include="DataModels\AssetMaster\SystemMaster.cs" />
+    <Compile Include="DataModels\AssetMaster\TaskList.cs" />
+    <Compile Include="DataModels\AssetMaster\TaskListAddItemModel.cs" />
+    <Compile Include="DataModels\AssetMaster\TaskTypeMaster.cs" />
+    <Compile Include="DataModels\AssetMaster\Vendor.cs" />
+    <Compile Include="DataModels\BuildingModel.cs" />
+    <Compile Include="DataModels\CompanyAdressDetails.cs" />
+    <Compile Include="DataModels\CompanyMaster.cs" />
+    <Compile Include="DataModels\CreateUser.cs" />
+    <Compile Include="DataModels\CurrencyCode.cs" />
+    <Compile Include="DataModels\CurrencyMaster.cs" />
+    <Compile Include="DataModels\Dashboard.cs" />
+    <Compile Include="DataModels\DesignationModel.cs" />
+    <Compile Include="DataModels\Employeetype.cs" />
+    <Compile Include="DataModels\FloorMasterModel.cs" />
+    <Compile Include="DataModels\HD-BaseModel.cs" />
+    <Compile Include="DataModels\Hd_Responce.cs" />
+    <Compile Include="DataModels\Locationclass.cs" />
+    <Compile Include="DataModels\Login.cs" />
+    <Compile Include="DataModels\Loginrecords.cs" />
+    <Compile Include="DataModels\MaintenanceSLA.cs" />
     <Compile Include="DataModels\MasterMenuModel.cs" />
+    <Compile Include="DataModels\MVCompanyData.cs" />
+    <Compile Include="DataModels\MVUserRoleMapping.cs" />
+    <Compile Include="DataModels\NewUser.cs" />
+    <Compile Include="DataModels\OfficeTypeModel.cs" />
+    <Compile Include="DataModels\RegionModel.cs" />
+    <Compile Include="DataModels\ReportsModel.cs" />
+    <Compile Include="DataModels\Reports\CM-Performance.cs" />
+    <Compile Include="DataModels\Reports\CM_status_details.cs" />
+    <Compile Include="DataModels\Reports\Reportsmodels.cs" />
+    <Compile Include="DataModels\requestApprovalmatrix.cs" />
+    <Compile Include="DataModels\Resources.cs" />
+    <Compile Include="DataModels\RoleModel.cs" />
+    <Compile Include="DataModels\RoomMasterModel.cs" />
+    <Compile Include="DataModels\RoomtypeModel.cs" />
+    <Compile Include="DataModels\ShiftMaster.cs" />
+    <Compile Include="DataModels\SiteEmpMapping.cs" />
+    <Compile Include="DataModels\SiteMasterDropdownlist.cs" />
+    <Compile Include="DataModels\SiteMasterModel.cs" />
+    <Compile Include="DataModels\SrAssignmaster.cs" />
+    <Compile Include="DataModels\TimeZoneMaster.cs" />
+    <Compile Include="DataModels\Transactions\ApproveModel.cs" />
+    <Compile Include="DataModels\Transactions\AssertLabelModel.cs" />
+    <Compile Include="DataModels\Transactions\AssignRequest.cs" />
+    <Compile Include="DataModels\Transactions\CloseWOStatus.cs" />
+    <Compile Include="DataModels\Transactions\Locationpriority.cs" />
+    <Compile Include="DataModels\Transactions\RaiseService.cs" />
+    <Compile Include="DataModels\Transactions\RequestForm.cs" />
+    <Compile Include="DataModels\Transactions\Servicepriority.cs" />
+    <Compile Include="DataModels\Transactions\SubSystem.cs" />
+    <Compile Include="DataModels\Transactions\System.cs" />
+    <Compile Include="DataModels\Transactions\WoAddItems.cs" />
+    <Compile Include="DataModels\Transactions\WOHistory.cs" />
+    <Compile Include="DataModels\Transactions\WoResource.cs" />
+    <Compile Include="DataModels\Transactions\WorjkOrderStatus.cs" />
+    <Compile Include="DataModels\Transactions\Workorder.cs" />
+    <Compile Include="DataModels\User.cs" />
+    <Compile Include="DataModels\UserLocationMapping.cs" />
+    <Compile Include="DataModels\UserRights.cs" />
+    <Compile Include="DataModels\UserRoleMapping.cs" />
+    <Compile Include="DataModels\UserServiceMapping.cs" />
+    <Compile Include="DataModels\ZoneModel.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -272,13 +542,19 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Common\json-schema.json" />
+    <Content Include="Common\Tabledata.json" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.js" />
     <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Web.config" />
+    <Content Include="view\index.html" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </Content>
@@ -295,7 +571,19 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Holiday\AddCapitalAsset\Assetdocument\" />
+    <Folder Include="Holiday\AddCapitalAsset\AssetImage\" />
+    <Folder Include="Holiday\AddCapitalAsset\InsuranceDocument\" />
+    <Folder Include="Holiday\AddCapitalAsset\Uploadexceldocument\" />
+    <Folder Include="Holiday\CompanyDocs\" />
+    <Folder Include="Holiday\Logo\" />
+    <Folder Include="Holiday\RasieServiceDocuments\" />
+    <Folder Include="Holiday\WorkOrderDocs\" />
+    <Folder Include="Holiday\XmlFiles\" />
+    <Folder Include="Logs\" />
     <Folder Include="Models\" />
+    <Folder Include="Views\Futureplans\" />
+    <Folder Include="Views\Region\" />
     <Folder Include="Views\Service\" />
   </ItemGroup>
   <ItemGroup>
@@ -331,6 +619,13 @@
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
@@ -351,6 +646,9 @@
           <CustomServerUrl>
           </CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+          <servers defaultServer="SelfHostServer">
+            <server name="SelfHostServer" exePath="" cmdArgs="" url="http://localhost:54149/" workingDir="" />
+          </servers>
         </WebProjectProperties>
       </FlavorProperties>
     </VisualStudio>

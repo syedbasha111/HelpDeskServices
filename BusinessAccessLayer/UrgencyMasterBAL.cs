@@ -29,11 +29,11 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteUrgencyCallMaster(int recordId)
+        public string DeleteUrgencyCallMaster(int recordId,int CompanyId)
         {
 
             UrgencyMasterDAL UrgencycallMethod = new UrgencyMasterDAL();
-            return UrgencycallMethod.DeleteUrgencyMaster(recordId);
+            return UrgencycallMethod.DeleteUrgencyMaster(recordId, CompanyId);
         }
     }
 }

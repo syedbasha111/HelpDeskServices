@@ -55,7 +55,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -103,7 +103,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -187,7 +187,7 @@ namespace HelpDeskServices.DataAccessLayer
 
         }
 
-        public string DeleteFeedbackMaster(int recordId)
+        public string DeleteFeedbackMaster(int recordId,int CompanyId)
         {
 
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
@@ -201,18 +201,8 @@ namespace HelpDeskServices.DataAccessLayer
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
                         cmd.Parameters.AddWithValue("@Fcase", 4);
-
                         cmd.Parameters.AddWithValue("@Id", recordId);
-                        cmd.Parameters.AddWithValue("@FeedbackCode", "");
-                        cmd.Parameters.AddWithValue("@FeedbackName", "");
-                        cmd.Parameters.AddWithValue("@Remark", "");
-                        cmd.Parameters.AddWithValue("@IsActive", 0);
-                        cmd.Parameters.AddWithValue("@createdBy", 0);
-                        cmd.Parameters.AddWithValue("@UpdatedBy", 0);
-                        cmd.Parameters.AddWithValue("@IsDeleted", 0);
-                        cmd.Parameters.AddWithValue("@Companyid", 0);
-                        cmd.Parameters.AddWithValue("@UpdatedOn", "");
-                        cmd.Parameters.AddWithValue("@CreatedOn", "");
+                        cmd.Parameters.AddWithValue("@Companyid", CompanyId);
                         cmd.CommandType = CommandType.StoredProcedure;
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
@@ -228,7 +218,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "No records Found";

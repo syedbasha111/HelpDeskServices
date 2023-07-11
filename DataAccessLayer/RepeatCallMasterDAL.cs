@@ -54,7 +54,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -100,7 +100,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -182,7 +182,7 @@ namespace HelpDeskServices.DataAccessLayer
 
         }
 
-        public string DeleteRepeatCallMaster(int recordId)
+        public string DeleteRepeatCallMaster(int recordId,int CompanyId)
         {
 
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
@@ -190,23 +190,17 @@ namespace HelpDeskServices.DataAccessLayer
             {
                 using (SqlConnection conn = new SqlConnection(ConString))
                 {
-                    conn.Open();
+                    
                     DataTable dt = new DataTable();
                     using (SqlCommand cmd = new SqlCommand("HD_sp_repeatcallmaster", conn))
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
                         cmd.Parameters.AddWithValue("@Fcase", 4);
-
                         cmd.Parameters.AddWithValue("@Id", recordId);
-                        cmd.Parameters.AddWithValue("@RepeatCallCode", "");
-                        cmd.Parameters.AddWithValue("@RepeatCallName", "");
-                        cmd.Parameters.AddWithValue("@Remark", "");
-                        cmd.Parameters.AddWithValue("@IsActive", 0);
-                        cmd.Parameters.AddWithValue("@createdBy", 0);
-                        cmd.Parameters.AddWithValue("@UpdatedBy", 0);
-                        cmd.Parameters.AddWithValue("@IsDeleted", 0);
-                        cmd.Parameters.AddWithValue("@Companyid", 0);
+                        cmd.Parameters.AddWithValue("@Companyid", CompanyId);
+                        conn.Open();
                         cmd.CommandType = CommandType.StoredProcedure;
+                        conn.Close();
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
                         da.Fill(dt);
@@ -221,7 +215,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "No records Found";

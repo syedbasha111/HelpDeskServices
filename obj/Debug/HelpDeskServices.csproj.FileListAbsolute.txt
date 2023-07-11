@@ -1,5 +1,3 @@
-F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csprojAssemblyReference.cache
-F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\ApplicationInsights.config
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll.config
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll
@@ -95,6 +93,1276 @@ F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Depend
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.xml
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.dll
 F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+F:\DOTNET_Applications\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csprojAssemblyReference.cache
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ApplicationInsights.config
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll.config
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.pdb
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe.config
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.rsp
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe.config
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.rsp
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.AppContext.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Console.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe.config
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.rsp
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Cors.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\WebGrease.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.pdb
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+C:\Users\Fadel_Admin\Desktop\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csprojAssemblyReference.cache
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ApplicationInsights.config
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll.config
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.pdb
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe.config
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.rsp
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe.config
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.rsp
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.AppContext.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Console.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe.config
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.rsp
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\EntityFramework.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Spatial.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Cors.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\WebGrease.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\EntityFramework.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Spatial.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.pdb
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\de\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\es\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\it\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csprojAssemblyReference.cache
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+E:\Mahendar\Projects\Helpdesk Project\Working\HelpDesk6\HelpDesk6\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ApplicationInsights.config
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll.config
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.pdb
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe.config
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.rsp
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe.config
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.rsp
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.AppContext.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Console.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe.config
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.rsp
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Spatial.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Cors.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\WebGrease.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Spatial.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.pdb
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\de\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\es\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\it\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\itextsharp.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\itextsharp.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\itextsharp.xmlworker.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\AutoMapper.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\AutoMapper.pdb
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\AutoMapper.xml
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csprojAssemblyReference.cache
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\Swashbuckle.Core.dll
+E:\Mahendar\Projects\Helpdesk Integration\service\HelpDeskServices\HelpDeskServices\bin\WebActivatorEx.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ApplicationInsights.config
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll.config
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.pdb
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe.config
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.rsp
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe.config
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.rsp
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.AppContext.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Console.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe.config
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.rsp
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\AutoMapper.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\itextsharp.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\itextsharp.xmlworker.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Swashbuckle.Core.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Spatial.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Cors.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\WebActivatorEx.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\WebGrease.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\AutoMapper.pdb
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\AutoMapper.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\itextsharp.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Spatial.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.pdb
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\de\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\es\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\it\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csprojAssemblyReference.cache
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+E:\Mahender\service\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ApplicationInsights.config
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll.config
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\HelpDeskServices.pdb
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.exe.config
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\csc.rsp
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.exe.config
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\csi.rsp
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.AppContext.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Console.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.exe.config
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\vbc.rsp
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\AutoMapper.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\EntityFramework.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\itextsharp.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\itextsharp.xmlworker.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Swashbuckle.Core.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Spatial.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Cors.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\WebActivatorEx.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\WebGrease.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\AutoMapper.pdb
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\AutoMapper.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\EntityFramework.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\itextsharp.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.Data.OData.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Spatial.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.Cors.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.OData.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Newtonsoft.Json.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Helpers.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Mvc.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Optimization.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.Razor.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Antlr3.Runtime.pdb
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.AI.Web.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\de\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\es\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\it\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+E:\Git Projects\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+E:\Git Projects\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+E:\Git Projects\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+E:\Git Projects\HelpDeskServices\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.AssemblyReference.cache
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ApplicationInsights.config
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll.config
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.pdb
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe.config
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.rsp
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe.config
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.rsp
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.AppContext.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Console.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe.config
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.rsp
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xmlworker.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Swashbuckle.Core.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Cors.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\WebActivatorEx.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\WebGrease.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.pdb
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.pdb
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\de\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\es\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\it\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.AssemblyReference.cache
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+E:\Git Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ApplicationInsights.config
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll.config
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.pdb
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe.config
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.rsp
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe.config
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.rsp
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.AppContext.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Console.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe.config
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.rsp
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xmlworker.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Swashbuckle.Core.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Cors.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\WebActivatorEx.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\WebGrease.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.pdb
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.pdb
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\de\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\es\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\it\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+D:\Murali\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.AssemblyReference.cache
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ApplicationInsights.config
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll.config
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.pdb
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe.config
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.rsp
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe.config
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.rsp
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.AppContext.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Console.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe.config
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.rsp
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xmlworker.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Swashbuckle.Core.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Cors.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\WebActivatorEx.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\WebGrease.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.pdb
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.pdb
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\de\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\es\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\it\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.AssemblyReference.cache
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+E:\GitHubProjects\Projects\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.pdb
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ApplicationInsights.config
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll.config
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\HelpDeskServices.pdb
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.exe.config
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csc.rsp
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.exe.config
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\csi.rsp
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.Managed.Core.targets
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.AppContext.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Collections.Immutable.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Console.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Compression.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.IO.Pipes.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Reflection.Metadata.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.AccessControl.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Claims.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Security.Principal.Windows.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.ValueTuple.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XmlDocument.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.exe.config
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\vbc.rsp
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\roslyn\VBCSCompiler.exe.config
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xmlworker.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Agent.Intercept.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.ApplicationInsights.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Web.Infrastructure.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Swashbuckle.Core.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Cors.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\WebActivatorEx.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\WebGrease.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.pdb
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\AutoMapper.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\EntityFramework.SqlServer.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\itextsharp.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.Edm.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.Data.OData.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Net.Http.Formatting.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Spatial.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.Cors.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.OData.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Newtonsoft.Json.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Helpers.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Http.WebHost.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Mvc.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Optimization.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.Razor.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Deployment.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Web.WebPages.Razor.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Antlr3.Runtime.pdb
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\System.Diagnostics.DiagnosticSource.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.DependencyCollector.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.WindowsServer.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.AI.Web.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\de\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\es\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\fr\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\it\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ja\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ko\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ru\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\de\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\es\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\fr\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\it\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ja\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ko\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\ru\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hans\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\bin\zh-Hant\System.Spatial.resources.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.AssemblyReference.cache
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CoreCompileInputs.cache
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.csproj.CopyComplete
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.dll
+D:\helpdesk_Api_2022-Murali (1)\helpdesk_Api_2022\HelpDeskServices\obj\Debug\HelpDeskServices.pdb

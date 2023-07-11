@@ -19,7 +19,6 @@ namespace HelpDeskServices.DataAccessLayer
             {
                 using (SqlConnection conn = new SqlConnection(ConString))
                 {
-                    conn.Open();
                     DataSet ds = new DataSet();
                     using (SqlCommand cmd = new SqlCommand("HD_Sp_Service", conn))
                     {
@@ -34,7 +33,9 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@Modifiedby", 0);
                         cmd.Parameters.AddWithValue("@IsActive", 0);
                         cmd.Parameters.AddWithValue("@ID", 0);
+                        conn.Open();
                         cmd.CommandType = CommandType.StoredProcedure;
+                        conn.Close();
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
                         da.Fill(ds);
@@ -77,7 +78,6 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception)
             {
-                throw;
             }
 
             return ServiceObjectList;
@@ -122,7 +122,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -167,7 +167,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -213,7 +213,7 @@ namespace HelpDeskServices.DataAccessLayer
 
         }
 
-        public string DeleteService(int ServiceId)
+        public string DeleteService(int ServiceId,int CompanyId)
         {
 
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
@@ -221,7 +221,7 @@ namespace HelpDeskServices.DataAccessLayer
             {
                 using (SqlConnection conn = new SqlConnection(ConString))
                 {
-                    conn.Open();
+                  
                     DataTable dt = new DataTable();
                     using (SqlCommand cmd = new SqlCommand("HD_Sp_Service", conn))
                     {
@@ -231,13 +231,15 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@ServiceDescription", "");
                         cmd.Parameters.AddWithValue("@Remarks", "");
                         cmd.Parameters.AddWithValue("@BusinessUnitID", 0);
-                        cmd.Parameters.AddWithValue("@Companyid", 0);
+                        cmd.Parameters.AddWithValue("@Companyid", CompanyId);
                         cmd.Parameters.AddWithValue("@createdby", 0);
                         cmd.Parameters.AddWithValue("@Modifiedby", 0);
                         cmd.Parameters.AddWithValue("@IsActive", 0);
                         cmd.Parameters.AddWithValue("@ID", ServiceId);
                         cmd.CommandType = CommandType.StoredProcedure;
+                        conn.Open();
                         SqlDataAdapter da = new SqlDataAdapter();
+                        conn.Close();
                         da.SelectCommand = cmd;
                         da.Fill(dt);
 
@@ -251,11 +253,82 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "No records Found";
 
+        }
+
+
+        public List<ServiceObject> GetServicebybussinessID(int companyId, int Id)
+        {
+            List<ServiceObject> baseModel = new List<ServiceObject>();
+            string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(ConString))
+                {
+                    conn.Open();
+                    DataTable dt = new DataTable();
+                    using (SqlCommand cmd = new SqlCommand("HD_Sp_RoomMaster", conn))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+
+                        SqlDataAdapter da = new SqlDataAdapter();
+                        cmd.Parameters.AddWithValue("@Fcase", 7);
+                        cmd.Parameters.AddWithValue("@Id", Id);
+                        cmd.Parameters.AddWithValue("@RoomCode", "");
+                        cmd.Parameters.AddWithValue("@RoomName", "");
+                        cmd.Parameters.AddWithValue("@RoomId", "");
+                        cmd.Parameters.AddWithValue("@RoomNumber", "");
+                        cmd.Parameters.AddWithValue("@Remarks", "");
+                        cmd.Parameters.AddWithValue("@IsActive", 0);
+                        cmd.Parameters.AddWithValue("@CreatedBy", 0);
+                        cmd.Parameters.AddWithValue("@ModifiedBy", "");
+                        cmd.Parameters.AddWithValue("@CreatedDate", "");
+                        cmd.Parameters.AddWithValue("@ModifiedDate", "");
+                        cmd.Parameters.AddWithValue("@Companyid", companyId);
+                        cmd.Parameters.AddWithValue("@IsDeleted", 0);
+                        cmd.Parameters.AddWithValue("@SiteId", 0);
+                        cmd.Parameters.AddWithValue("@cityID", 0);
+                        cmd.Parameters.AddWithValue("@CountryID", 0);
+                        cmd.Parameters.AddWithValue("@DistrictID", 0);
+                        cmd.Parameters.AddWithValue("@RegionID", 0);
+                        cmd.Parameters.AddWithValue("@ZoneId", 0);
+                        cmd.Parameters.AddWithValue("@BuildingId", 0);
+                        cmd.Parameters.AddWithValue("@FloorId", 0);
+                        cmd.Parameters.AddWithValue("@AreaId", 0);
+
+
+                        da.SelectCommand = cmd;
+                        da.Fill(dt);
+
+                        if (dt.Rows.Count > 0)
+                        {
+
+                            foreach (DataRow dr in dt.Rows)
+                            {
+                                ServiceObject data = new ServiceObject();
+
+                                
+
+
+                                baseModel.Add(data);
+                            }
+
+                        }
+
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+
+            }
+
+            return baseModel;
         }
     }
 }

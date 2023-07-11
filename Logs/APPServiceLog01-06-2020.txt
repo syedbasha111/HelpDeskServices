@@ -1,0 +1,3 @@
+01-06-2020 05:07:37 PM Pdf method started System.Collections.Generic.List`1[HelpDeskServices.DataModels.RE_cap_closeWO]
+01-06-2020 05:07:37 PM Folder Path ~/Users_WO\RaiseReq\PendingWO01062020.pdf
+01-06-2020 05:07:37 PM pdf functionality start 

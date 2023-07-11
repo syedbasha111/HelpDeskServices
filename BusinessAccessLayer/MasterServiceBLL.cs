@@ -17,7 +17,11 @@ namespace HelpDeskServices.BusinessAccessLayer
             
             return MasterDAL.GetServiceUnit(campanyId);
         }
+        public List<ServiceObject> GetServicebybussinessID(int campanyId,int Id)
+        {
 
+            return MasterDAL.GetServicebybussinessID(campanyId,Id);
+        }
         public string InsertService(Service serviceObj)
         {
             return MasterDAL.InsertService(serviceObj);
@@ -33,9 +37,9 @@ namespace HelpDeskServices.BusinessAccessLayer
             return MasterDAL.GetServiceById(ServiceId);
         }
 
-        public string DeleteService(int ServiceId)
+        public string DeleteService(int ServiceId,int CompanyId)
         {
-            return MasterDAL.DeleteService(ServiceId);
+            return MasterDAL.DeleteService(ServiceId, CompanyId);
         }
 
         public List<CitiesModel> GetCities(string countryName)
@@ -53,6 +57,11 @@ namespace HelpDeskServices.BusinessAccessLayer
         {
             MasterModeulDAL MasterIDAl = new MasterModeulDAL();
             return MasterIDAl.GetCountries();
+        }
+        public List<LocationModel> GetLocationByCity(string cityCode,int companyId)
+        {
+            MasterModeulDAL MasterIDAl = new MasterModeulDAL();
+            return MasterIDAl.GetLocationByCity(cityCode, companyId);
         }
     }
 }

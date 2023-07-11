@@ -15,6 +15,12 @@ namespace HelpDeskServices.BusinessAccessLayer
             return slaservicedalMethod.insertSLATimeDefination(obj);
 
         }
+        public string InsertSLATimesubItems(List<slatimesubitems> obj)
+        {
+            SlaTimeDefinationDAL slaservicedalMethod = new SlaTimeDefinationDAL();
+            return slaservicedalMethod.InsertSLATimesubItems(obj);
+
+        }
 
         public string UpdateSLATimeDefination(SlaTimeDefinationModel obj)
         {

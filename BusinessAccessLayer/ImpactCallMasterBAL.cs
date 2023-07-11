@@ -29,11 +29,11 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteImpactCallMaster(int recordId)
+        public string DeleteImpactCallMaster(int recordId,int CompanyId)
         {
 
             ImpactMasterDAL impactcallMethod = new ImpactMasterDAL();
-            return impactcallMethod.DeleteImpactMaster(recordId);
+            return impactcallMethod.DeleteImpactMaster(recordId, CompanyId);
         }
     }
 }

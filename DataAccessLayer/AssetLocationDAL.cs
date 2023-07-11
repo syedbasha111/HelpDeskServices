@@ -128,7 +128,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -176,14 +176,14 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
 
         }
 
-        public string DeleteAssetLocation(int problemId)
+        public string DeleteAssetLocation(int problemId,int CompanyId)
         {
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
             try
@@ -196,13 +196,7 @@ namespace HelpDeskServices.DataAccessLayer
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
                         cmd.Parameters.AddWithValue("@Fcase", 4);
-                        cmd.Parameters.AddWithValue("@AssetLocatonCode", "");
-                        cmd.Parameters.AddWithValue("@AssetLocationDescription", "");
-                        cmd.Parameters.AddWithValue("@Remarks", "");
-                        cmd.Parameters.AddWithValue("@Companyid", "");
-                        cmd.Parameters.AddWithValue("@createdby", 0);
-                        cmd.Parameters.AddWithValue("@Modifiedby", 0);
-                        cmd.Parameters.AddWithValue("@IsActive", 0);
+                        cmd.Parameters.AddWithValue("@Companyid", CompanyId);
                         cmd.Parameters.AddWithValue("@ID", problemId);
                         cmd.CommandType = CommandType.StoredProcedure;
                         SqlDataAdapter da = new SqlDataAdapter();
@@ -220,7 +214,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
             return "No records Found";
         }

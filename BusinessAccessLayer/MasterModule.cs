@@ -12,14 +12,21 @@ namespace HelpDeskServices.BusinessAccessLayer
         MasterModeulDAL MasterDAL = new MasterModeulDAL();
 
         public List<menuObject> GetSideNavigation(string UserType, string CompanyCode)
+
         {
             List<menuObject> menumaster = MasterDAL.GetSideNavigation(UserType, CompanyCode);
             return menumaster;
         }
 
-        public List<BusinessObject> GetBussinessUnit()
+        public List<menuObject> GetSubmenuItems(int Categoryid,string lang)
         {
-           return MasterDAL.GetBussinessUnit();
+            List<menuObject> menumaster = MasterDAL.GetSubmenuItems(Categoryid, lang);
+            return menumaster;
+        }
+
+        public List<BusinessObject> GetBussinessUnit(int companyId)
+        {
+           return MasterDAL.GetBussinessUnit(companyId);
         }
 
         public string insertBusinessUnit(BussinessParametersObj bunit)
@@ -37,9 +44,9 @@ namespace HelpDeskServices.BusinessAccessLayer
            return  MasterDAL.GetBussinessUnitById(BusinessId);
         }
 
-        public string DeleteBussinessUnit(int BusinessId)
+        public string DeleteBussinessUnit(int BusinessId,int CompanyId)
         {
-            return MasterDAL.DeleteBussinessUnit(BusinessId);
+            return MasterDAL.DeleteBussinessUnit(BusinessId, CompanyId);
         }
     }
 

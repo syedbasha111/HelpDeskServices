@@ -29,11 +29,11 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteFeedbackCallMaster(int recordId)
+        public string DeleteFeedbackCallMaster(int recordId,int CompanyId)
         {
 
             FeedbackMasterDAL FeedbackcallMethod = new FeedbackMasterDAL();
-            return FeedbackcallMethod.DeleteFeedbackMaster(recordId);
+            return FeedbackcallMethod.DeleteFeedbackMaster(recordId, CompanyId);
         }
     }
 }

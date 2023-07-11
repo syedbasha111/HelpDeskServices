@@ -12,6 +12,11 @@ namespace HelpDeskServices.DataAccessLayer
     public class SlaTimeDefinationDAL
     {
 
+        string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
+        SqlConnection conn;
+        SqlCommand cmd;
+        SqlDataAdapter da = new SqlDataAdapter();
+
         public string insertSLATimeDefination(SlaTimeDefinationModel timedefination)
         {
 
@@ -60,7 +65,53 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
+            }
+
+            return "";
+
+        }
+
+        public string InsertSLATimesubItems(List<slatimesubitems> timedefination)
+        {
+
+            string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
+            try
+            {
+                DataTable dt = new DataTable();
+                foreach (var request in timedefination) { 
+                using (SqlConnection conn = new SqlConnection(ConString))
+                {
+                    conn.Open();
+                   
+                    using (SqlCommand cmd = new SqlCommand("[Hd-sp-SLATimeSubItems]", conn))
+                    {
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        cmd.Parameters.AddWithValue("@Fcase", 1);
+
+                            cmd.Parameters.AddWithValue("@Id", request.SLATimeId);
+                            cmd.Parameters.AddWithValue("@RoleId", request.RoleId);
+                            cmd.Parameters.AddWithValue("@TextValue", request.TextValue);
+                            cmd.Parameters.AddWithValue("@Timeddlvalue", request.Timeddlvalue);
+                            cmd.Parameters.AddWithValue("@Type", request.Type);
+                            cmd.Parameters.AddWithValue("@CompanyId", request.CompanyId);
+                            cmd.Parameters.AddWithValue("@Isdeleted", request.Isdeleted);
+
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        SqlDataAdapter da = new SqlDataAdapter();
+                        da.SelectCommand = cmd;
+                        da.Fill(dt);
+                    }
+                }
+                }
+                if (dt.Rows.Count > 0)
+                {
+                    return dt.Rows[0][0].ToString();
+                }
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
             }
 
             return "";
@@ -97,10 +148,19 @@ namespace HelpDeskServices.DataAccessLayer
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
                         da.Fill(dt);
-
+                        string status = "";
                         if (dt.Rows.Count > 0)
                         {
-                            return dt.Rows[0][0].ToString();
+                            status = dt.Rows[0][0].ToString();
+                        }
+                        if (status == "Successfully Updated")
+                        {
+                            string DeleteStatus = deletetabledata(slatimeModel.SlaTimeDefinationId, slatimeModel.CompanyId);
+                            if (DeleteStatus == "Successfully Deleted")
+                            {
+                                return slatimeModel.SlaTimeDefinationId.ToString();
+                            }
+
                         }
 
                     }
@@ -109,13 +169,48 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
 
         }
+        public string deletetabledata(int Id, int CompanyId)
+        {
 
+            try
+            {
+                using (conn = new SqlConnection(ConString))
+                {
+
+                    using (cmd = new SqlCommand("Hd-sp-SLATimeSubItems", conn))
+                    {
+                        cmd.Parameters.AddWithValue("@Fcase", 2);
+                        cmd.Parameters.AddWithValue("@Id", Id);
+                        cmd.Parameters.AddWithValue("@CompanyId", CompanyId);
+                        conn.Open();
+                        cmd.CommandType = CommandType.StoredProcedure;
+                        conn.Close();
+                        DataTable dt = new DataTable();
+                        da.SelectCommand = cmd;
+                        da.Fill(dt);
+
+                        if (dt.Rows.Count > 0)
+                        {
+                            return dt.Rows[0][0].ToString();
+                        }
+                    }
+                }
+
+            }
+            catch (Exception ex)
+            {
+                return ex.Message;
+            }
+
+            return "No records Found";
+
+        }
 
         public List<SlaTimeDefinationModel> GetSLATimeDefination(int companyId)
         {
@@ -159,13 +254,13 @@ namespace HelpDeskServices.DataAccessLayer
                                 SlaTimeDefinationModel SlaTimeObj = new SlaTimeDefinationModel();
                                 SlaTimeObj.CompanyId = int.Parse(dr["CompanyId"].ToString());
                                 //compyObj.CompanyName = dr["Name"].ToString();
-                                SlaTimeObj.SlaTimeDefinationId = int.Parse(dr["Sla_Time_Defination_Id"].ToString());
-                                SlaTimeObj.CountryCode = dr["CountryName"].ToString();
-                                SlaTimeObj.CountryId = dr["CountryCode"].ToString();
+                                SlaTimeObj.SlaTimeDefinationId = int.Parse(dr["ID"].ToString());
+                                SlaTimeObj.CountryName = dr["CountryName"].ToString();
+                                SlaTimeObj.CountryId =int.Parse(dr["CountryId"].ToString());
                                 SlaTimeObj.CityName = dr["CityName"].ToString();
-                                SlaTimeObj.CityId = dr["CityCode"].ToString();
-                                //escalationObj.LocationName = int.Parse(dr["Service_Escalation_Id"].ToString());
-                                //escalationObj.LocationId = int.Parse(dr["Service_Escalation_Id"].ToString());
+                                SlaTimeObj.CityId = int.Parse(dr["CityId"].ToString());
+                                SlaTimeObj.LocationName = dr["AssetLocationName"].ToString();
+                                SlaTimeObj.LocationId = int.Parse(dr["LocationId"].ToString());
                                 SlaTimeObj.ServiceId = int.Parse(dr["ServiceId"].ToString());
                                 SlaTimeObj.ServiceName = dr["ServiceDescription"].ToString();
                                 SlaTimeObj.SubServiceID = int.Parse(dr["SubServiceId"].ToString());
@@ -226,7 +321,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "No records Found";

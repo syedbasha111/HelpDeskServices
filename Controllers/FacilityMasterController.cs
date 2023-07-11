@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/Facility")]
     public class FacilityMasterController : ApiController
     {
         [HttpPost]
@@ -25,10 +26,21 @@ namespace HelpDeskServices.Controllers
         }
         [HttpGet]
         public HttpResponseMessage GetFacilityCallMaster(int companyId)
-        {
+       {
             FacilityMasterBAL getFacilitybalmethods = new FacilityMasterBAL();
             List<FacilityCallMasterModel> FacilityObj = new List<FacilityCallMasterModel>();
             return Request.CreateResponse(HttpStatusCode.OK, FacilityObj = getFacilitybalmethods.GetFacilityCallMaster(companyId));
         }
+
+        [HttpDelete]
+        [Route("deleteFacility")]
+        public HttpResponseMessage DeleteFacility(int recordId, int CompanyId)
+        {
+            string status;
+            FacilityMasterBAL BAL = new FacilityMasterBAL();
+            status = BAL.DeleteFacilityCallMaster(recordId, CompanyId);
+            return Request.CreateResponse(HttpStatusCode.OK, status);
+        }
+
     }
 }

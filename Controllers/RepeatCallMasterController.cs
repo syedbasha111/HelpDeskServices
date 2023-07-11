@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/RepeatCall")]
     public class RepeatCallMasterController : ApiController
     {
 
@@ -29,7 +30,6 @@ namespace HelpDeskServices.Controllers
         }
 
         [HttpGet]
-
         public HttpResponseMessage GetRepeatCallMaster(int companyId)
         {
             List<RepeatCallMasterModel> repeatModelList = new List<RepeatCallMasterModel>();
@@ -37,7 +37,15 @@ namespace HelpDeskServices.Controllers
             repeatModelList = repeatbalmethods.GetRepeatCallMaster(companyId);
             return Request.CreateResponse(HttpStatusCode.OK, repeatModelList);
         }
-       
+        [HttpDelete]
+        [Route("deleterepeatcall")]
+        public HttpResponseMessage DeleteRepeatcall(int recordId, int CompanyId)
+        {
+            string status;
+            RepeatCallMasterBAL repeatbalmethods = new RepeatCallMasterBAL();
+            status = repeatbalmethods.DeleteRepeatcall(recordId, CompanyId);
+            return Request.CreateResponse(HttpStatusCode.OK, status);
+        }
     }
     
 }

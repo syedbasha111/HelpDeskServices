@@ -9,6 +9,7 @@ using System.Web.Http;
 
 namespace HelpDeskServices.Controllers
 {
+    [RoutePrefix("api/ImpactCall")]
     public class ImpactMasterController : ApiController
     {
         [HttpPost]
@@ -29,6 +30,15 @@ namespace HelpDeskServices.Controllers
             ImpactCallMasterBAL getimpactbalmethods = new ImpactCallMasterBAL();
             List<ImpactCallMasterModel> impactObj = new List<ImpactCallMasterModel>();
             return Request.CreateResponse(HttpStatusCode.OK, impactObj = getimpactbalmethods.GetImpactCallMaster(companyId));
+        }
+        [HttpDelete]
+        [Route("deleteImpactcall")]
+        public HttpResponseMessage DeleteImpactcall(int recordId, int CompanyId)
+        {
+            string status;
+            ImpactCallMasterBAL BAL = new ImpactCallMasterBAL();
+            status = BAL.DeleteImpactCallMaster(recordId, CompanyId);
+            return Request.CreateResponse(HttpStatusCode.OK, status);
         }
     }
 }

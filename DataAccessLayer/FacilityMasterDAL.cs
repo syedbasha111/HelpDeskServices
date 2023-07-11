@@ -29,6 +29,7 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@FacilityCode", FacilityObj.FacilityCallCode);
                         cmd.Parameters.AddWithValue("@FacilityName", FacilityObj.FacilityCallName);
                         cmd.Parameters.AddWithValue("@Remark", FacilityObj.Remark);
+                        cmd.Parameters.AddWithValue("@LocationId", FacilityObj.LocationId);
                         cmd.Parameters.AddWithValue("@IsActive", FacilityObj.IsActive);
                         cmd.Parameters.AddWithValue("@createdBy", FacilityObj.CreatedBy);
                         cmd.Parameters.AddWithValue("@UpdatedBy", FacilityObj.UpdatedBy);
@@ -54,7 +55,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -78,6 +79,7 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@Id", FacilityObj.FacilityCallMasterId);
                         cmd.Parameters.AddWithValue("@FacilityCode", FacilityObj.FacilityCallCode);
                         cmd.Parameters.AddWithValue("@FacilityName", FacilityObj.FacilityCallName);
+                        cmd.Parameters.AddWithValue("@LocationId", FacilityObj.LocationId);
                         cmd.Parameters.AddWithValue("@Remark", FacilityObj.Remark);
                         cmd.Parameters.AddWithValue("@IsActive", FacilityObj.IsActive);
                         cmd.Parameters.AddWithValue("@createdBy", FacilityObj.CreatedBy);
@@ -86,7 +88,7 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@IsDeleted", 0);
                         cmd.Parameters.AddWithValue("@UpdatedOn", "");
                         cmd.Parameters.AddWithValue("@CreatedOn", "");
-                        cmd.Parameters.AddWithValue("@Cost", "");
+                        cmd.Parameters.AddWithValue("@Cost", FacilityObj.FacilityCost);
                         cmd.CommandType = CommandType.StoredProcedure;
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
@@ -103,7 +105,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "";
@@ -139,6 +141,7 @@ namespace HelpDeskServices.DataAccessLayer
                         cmd.Parameters.AddWithValue("@UpdatedOn", "");
                         cmd.Parameters.AddWithValue("@CreatedOn", "");
                         cmd.Parameters.AddWithValue("@Cost", "");
+                        cmd.Parameters.AddWithValue("@LocationId", 0);
                         cmd.Parameters.AddWithValue("@Companyid", companyId);
 
 
@@ -159,8 +162,8 @@ namespace HelpDeskServices.DataAccessLayer
                                 Facilityobj.Remark = dr["Remark"].ToString();
                                 Facilityobj.CreatedBy = int.Parse(dr["CreatedBy"].ToString());
                                 Facilityobj.FacilityCost = dr["Cost"].ToString();
-                                //escalationObj.LocationName = int.Parse(dr["Service_Escalation_Id"].ToString());
-                                //escalationObj.LocationId = int.Parse(dr["Service_Escalation_Id"].ToString());
+                                Facilityobj.LocationId = int.Parse(dr["LocationId"].ToString());
+                                Facilityobj.LocationName =  dr["LocationName"].ToString();
                                 Facilityobj.UpdatedBy = int.Parse(dr["UpdatedBy"].ToString());
                                 Facilityobj.CompanyId = int.Parse(dr["CompanyId"].ToString());
                                 Facilityobj.IsDeleted = int.Parse(dr["IsDeleted"].ToString());
@@ -189,7 +192,7 @@ namespace HelpDeskServices.DataAccessLayer
 
         }
 
-        public string DeleteFacilityMaster(int recordId)
+        public string DeleteFacilityMaster(int recordId,int CompanyId)
         {
 
             string ConString = ConfigurationManager.AppSettings["connectionString"].ToString();
@@ -202,20 +205,20 @@ namespace HelpDeskServices.DataAccessLayer
                     using (SqlCommand cmd = new SqlCommand("HD_sp_facilitymaster", conn))
                     {
                         cmd.CommandType = CommandType.StoredProcedure;
-                        cmd.Parameters.AddWithValue("@Fcase", 4);
-
-                        cmd.Parameters.AddWithValue("@Id", recordId);
+                        cmd.Parameters.AddWithValue("@Fcase",4);
+                        cmd.Parameters.AddWithValue("@ID",recordId);
                         cmd.Parameters.AddWithValue("@FacilityCode", "");
                         cmd.Parameters.AddWithValue("@FacilityName", "");
                         cmd.Parameters.AddWithValue("@Remark", "");
-                        cmd.Parameters.AddWithValue("@Cost", "");
                         cmd.Parameters.AddWithValue("@IsActive", 0);
                         cmd.Parameters.AddWithValue("@createdBy", 0);
                         cmd.Parameters.AddWithValue("@UpdatedBy", 0);
                         cmd.Parameters.AddWithValue("@IsDeleted", 0);
-                        cmd.Parameters.AddWithValue("@Companyid", 0);
                         cmd.Parameters.AddWithValue("@UpdatedOn", "");
                         cmd.Parameters.AddWithValue("@CreatedOn", "");
+                        cmd.Parameters.AddWithValue("@Cost", "");
+                        cmd.Parameters.AddWithValue("@LocationId", 0);
+                        cmd.Parameters.AddWithValue("@CompanyId",CompanyId);
                         cmd.CommandType = CommandType.StoredProcedure;
                         SqlDataAdapter da = new SqlDataAdapter();
                         da.SelectCommand = cmd;
@@ -231,7 +234,7 @@ namespace HelpDeskServices.DataAccessLayer
             }
             catch (Exception ex)
             {
-                throw;
+                return ex.Message;
             }
 
             return "No records Found";

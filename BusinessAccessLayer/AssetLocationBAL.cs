@@ -29,10 +29,10 @@ namespace HelpDeskServices.BusinessAccessLayer
 
         }
 
-        public string DeleteAssetLocation(int assetLocationId)
+        public string DeleteAssetLocation(int assetLocationId,int CompanyId)
         {
             AssetLocationDAL deleteassetLocations = new AssetLocationDAL();
-            return deleteassetLocations.DeleteAssetLocation(assetLocationId);
+            return deleteassetLocations.DeleteAssetLocation(assetLocationId, CompanyId);
 
         }
     }
